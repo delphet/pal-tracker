@@ -3,3 +3,8 @@ build
 .idea
 *.iml
 ci/variables.yml
+.classpath
+*.iml
+.project
+.settings
+.vscode
